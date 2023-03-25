@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Intro to Git" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679758031" ts_lastsave="1679759586">
+    <rich_text>What is Git  ? 
+	-&gt; Version Control or Source controll system
+	-&gt; Time maschine : History of the Projekt. 
+	-&gt; Chekc points (commits) 
+	-&gt; Multiverse (branches) copy of a projekt without changing the original
+	
+	-&gt; Homepage of Git : git-scm.com -&gt; source controll management
+	
+	
+	</rich_text>
+  </node>
+  <node name="Git-Commands" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1679759586" ts_lastsave="1679759677">
+    <rich_text>git add FILENAME 
+</rich_text>
+    <rich_text background="#2626a2a26969"># git add --all
+# git add -A
+# git add .</rich_text>
+    <rich_text>
+
+git commit -m “First Commit”</rich_text>
+  </node>
+</cherrytree>
